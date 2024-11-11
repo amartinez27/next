@@ -1,2 +1,2 @@
 # next
-next example
+nextjs example
